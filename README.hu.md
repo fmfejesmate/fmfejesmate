@@ -1,5 +1,4 @@
-
-[🇬🇧 English](README.md) | 🇭🇺 Magyar
+<a href="README.md"><img src="gb.svg" alt="British flag" width="15"> English</a> | <img src="hu.svg" alt="Magyar zászló" width="15"> Magyar | <a href="README.de.md"><img src="de.svg" alt="Deutsche Flagge" width="15"> Deutsch</a> | <a href="README.pl.md"><img src="pl.svg" alt="Polska flaga" width="15"> Polski</a>
 
 # Szia, Máté vagyok! 👋
 
