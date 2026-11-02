@@ -1,4 +1,4 @@
-🇬🇧 English | [🇭🇺 Magyar](readme.hu.md)
+🇬🇧 English | [🇭🇺 Magyar](README.hu.md)
 
 # Hi, I'm Máté! 👋
 
@@ -13,7 +13,7 @@ I develop AI-powered applications, integrate large language models and build AI 
 
 **Backend:** Java 8–25, Spring, Spring Boot, Java EE, JPA, Maven, REST APIs, RabbitMQ, Kafka, Hazelcast  
 **Frontend:** React, Angular, TypeScript, RxJS, JavaScript, JSF, JSP, PrimeFaces  
-**Databases & migrations:** Oracle SQL, PL/SQL, MySQL, PostgreSQL, Microsoft SQL Server, MongoDB, H2, Redis, Liquibase, Flyway  
+**Databases & migrations:** Oracle SQL, PL/SQL, MySQL, PostgreSQL, MSSQL, MongoDB, H2, Redis, Liquibase, Flyway  
 **Containers & orchestration:** Docker, Kubernetes (k3s, RKE2), Rancher, Helm  
 **CI/CD & software delivery:** GitHub Actions, GitLab CI, GitLab Runner, Jenkins, Azure DevOps, Nexus  
 **GitOps & infrastructure automation:** Argo CD, Ansible, Terraform  
@@ -32,7 +32,7 @@ I develop AI-powered applications, integrate large language models and build AI 
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Training
 
 - **MSc in Computer Science** · University of Debrecen · 2020–2024
 - **BSc in Computer Science** · Eötvös Loránd University · 2014–2020
@@ -61,5 +61,5 @@ I'm interested in Backend, Fullstack, DevOps, SysOps, AI Developer and LLM Engin
 
 ## 📫 Contact
 
-[🌐 DevNode Solutions](https://www.devnodesolutions.com) · [🌐 SoftBazis](https://www.softbazis.com) · [🌐 Digitámasz](https://www.digitamasz.com)  
+[🌐 DevNode Solutions](https://www.devnodesolutions.com) · [🌐 SoftBazis](https://www.softbazis.com) · [🌐 DigiTámasz](https://www.digitamasz.com)  
 [💼 LinkedIn](https://www.linkedin.com/in/fejes-mate/) · [✉️ Email](mailto:fm.fejesmate@gmail.com)
