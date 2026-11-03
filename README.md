@@ -49,7 +49,7 @@ Continuous development through independent study and hands-on practice.
 **AI agents & workflows:** multi-step workflows, state management, tool integration and human-in-the-loop interaction  
 **LLM evaluation & operations:** answer and retrieval quality evaluation, tracing, response time, token usage and cost monitoring  
 **Virtualization:** Hyper-V, VMware, VirtualBox, Vagrant  
-**Additional tools:** ngrok
+**Additional tools:** ngrok  
 **Programming:** .NET, C#, PHP
 
 ---
