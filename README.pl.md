@@ -49,7 +49,8 @@ Ciągły rozwój poprzez samodzielną naukę i zdobywanie praktycznego doświadc
 **Agenci AI i przepływy pracy:** wieloetapowe przepływy pracy, zarządzanie stanem, integracja narzędzi i udział człowieka w procesie wykonania  
 **Ewaluacja i utrzymanie LLM:** ocena jakości odpowiedzi i wyszukiwania, tracing, monitorowanie czasu odpowiedzi, zużycia tokenów i kosztów  
 **Wirtualizacja:** Hyper-V, VMware, VirtualBox, Vagrant  
-**Dodatkowe narzędzia:** ngrok
+**Dodatkowe narzędzia:** ngrok  
+**Programowanie:** .NET, C#, PHP
 
 ---
 
