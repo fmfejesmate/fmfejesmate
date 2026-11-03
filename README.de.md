@@ -49,7 +49,8 @@ Kontinuierliche Weiterentwicklung durch selbstständiges Lernen und praktische E
 **KI-Agenten & Workflows:** mehrstufige Workflows, Zustandsverwaltung, Werkzeugintegration und menschliche Mitwirkung während der Ausführung  
 **LLM-Evaluierung & Betrieb:** Bewertung der Antwort- und Retrieval-Qualität, Tracing, Überwachung von Antwortzeiten, Token-Verbrauch und Kosten  
 **Virtualisierung:** Hyper-V, VMware, VirtualBox, Vagrant  
-**Weitere Werkzeuge:** ngrok
+**Weitere Werkzeuge:** ngrok  
+**Programmierung:** .NET, C#, PHP
 
 ---
 
