@@ -49,7 +49,7 @@ Folyamatos fejlődés önálló tanulással és gyakorlati tapasztalatszerzésse
 **AI-ágensek és munkafolyamatok:** többlépéses munkafolyamatok, állapotkezelés, eszközintegráció és emberi közreműködés a végrehajtás során  
 **LLM-ek értékelése és üzemeltetése:** válasz- és visszakeresési minőség értékelése, tracing, válaszidő, tokenfelhasználás és költségek követése  
 **Virtualizáció:** Hyper-V, VMware, VirtualBox, Vagrant  
-**További eszközök:** ngrok
+**További eszközök:** ngrok  
 **Programozás:** .NET, C#, PHP
 
 ---
