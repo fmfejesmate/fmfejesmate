@@ -50,7 +50,7 @@ Continuous development through independent study and hands-on practice.
 **LLM evaluation & operations:** answer and retrieval quality evaluation, tracing, response time, token usage and cost monitoring  
 **Virtualization:** Hyper-V, VMware, VirtualBox, Vagrant  
 **Additional tools:** ngrok
-**Programming language:** .NET, C#, PHP
+**Programming:** .NET, C#, PHP
 
 ---
 
